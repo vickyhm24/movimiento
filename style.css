@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&display=swap');
+body {
+    background-color:rgb(170, 183, 255);
+    text-align: center;
+}
+
+button{
+    border-radius: 10px;
+    border-color:rgb(247, 171, 186);
+    background-color:rgb(255, 108, 138);
+}
+
+#album{
+    width:550px;
+    border-radius: 30px;
+}
